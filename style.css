@@ -1,0 +1,68 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding: 5%;
+    height: 500px;
+}
+.half-width img{
+    width: 62%;
+    margin-left: 10px;
+}
+.text-size{
+    margin-top: 30%;
+}
+.text-color{
+    color: lightcoral;
+}
+.btn-design{
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: white;
+    background-image: linear-gradient(salmon, tomato);
+}
+h3{
+    text-align: center;
+}
+.project-work{
+    width: 25%;
+    float: left;
+    padding:3%;
+    margin-left: 5%;
+    box-sizing: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+}
+.project-work img {
+    width: 100%;
+}
+.work-chat{
+    width: 10%;
+    height: 73px;
+    float: left;
+    margin-left: 28%;
+    margin-top: 16%;
+  
+}
+.working{
+    background-image: url(images/Group_33094_1.png);
+    background-position: center;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    
+}
+.project{
+    height: 500px;
+}
+section{
+    height: 500px;
+}
+h5{
+    text-size:20px;
+}
